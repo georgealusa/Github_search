@@ -51,4 +51,4 @@ E-mail: ```georgealusa@gmail.com```
 
 ## Legal
 
- Copyright &copy; 2021 George Alusa
+ Copyright &copy; 2021 George Alusa.
